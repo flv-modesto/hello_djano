@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5020d203-9418-484e-8038-e8e91c3480f8" name="Default Changelist" comment="" />
+    <list default="true" id="5020d203-9418-484e-8038-e8e91c3480f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_django/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZbD0cY5ShI6FVRCso08BQhvgGw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,36 +76,29 @@
       <screen x="0" y="0" width="1024" height="742" />
     </state>
     <state x="289" y="126" width="428" height="481" key="FileChooserDialogImpl/0.0.1024.742@0.0.1024.742" timestamp="1585099497451" />
-    <state width="1001" height="177" key="GridCell.Tab.0.bottom" timestamp="1585102104184">
+    <state width="1001" height="177" key="GridCell.Tab.0.bottom" timestamp="1585250997927">
       <screen x="0" y="0" width="1024" height="742" />
     </state>
-    <state width="1001" height="177" key="GridCell.Tab.0.bottom/0.0.1024.742@0.0.1024.742" timestamp="1585102104184" />
-    <state width="1001" height="177" key="GridCell.Tab.0.center" timestamp="1585102104181">
+    <state width="1001" height="177" key="GridCell.Tab.0.bottom/0.0.1024.742@0.0.1024.742" timestamp="1585250997927" />
+    <state width="1001" height="177" key="GridCell.Tab.0.center" timestamp="1585250997922">
       <screen x="0" y="0" width="1024" height="742" />
     </state>
-    <state width="1001" height="177" key="GridCell.Tab.0.center/0.0.1024.742@0.0.1024.742" timestamp="1585102104181" />
-    <state width="1001" height="177" key="GridCell.Tab.0.left" timestamp="1585102104180">
+    <state width="1001" height="177" key="GridCell.Tab.0.center/0.0.1024.742@0.0.1024.742" timestamp="1585250997922" />
+    <state width="1001" height="177" key="GridCell.Tab.0.left" timestamp="1585250997921">
       <screen x="0" y="0" width="1024" height="742" />
     </state>
-    <state width="1001" height="177" key="GridCell.Tab.0.left/0.0.1024.742@0.0.1024.742" timestamp="1585102104180" />
-    <state width="1001" height="177" key="GridCell.Tab.0.right" timestamp="1585102104182">
+    <state width="1001" height="177" key="GridCell.Tab.0.left/0.0.1024.742@0.0.1024.742" timestamp="1585250997921" />
+    <state width="1001" height="177" key="GridCell.Tab.0.right" timestamp="1585250997927">
       <screen x="0" y="0" width="1024" height="742" />
     </state>
-    <state width="1001" height="177" key="GridCell.Tab.0.right/0.0.1024.742@0.0.1024.742" timestamp="1585102104182" />
+    <state width="1001" height="177" key="GridCell.Tab.0.right/0.0.1024.742@0.0.1024.742" timestamp="1585250997927" />
     <state x="1" y="7" key="SettingsEditor" timestamp="1585099537757">
       <screen x="0" y="0" width="1024" height="742" />
     </state>
     <state x="1" y="7" key="SettingsEditor/0.0.1024.742@0.0.1024.742" timestamp="1585099537757" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/hello_django/urls.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="168" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1585248920383">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state x="168" y="199" key="com.intellij.ide.util.TipDialog/0.0.1024.742@0.0.1024.742" timestamp="1585248920383" />
   </component>
 </project>
